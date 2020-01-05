@@ -1,4 +1,5 @@
 Entity,Code,ALC
+Somaliland,ABV,0
 Afghanistan,AFG,20
 Angola,AGO,640
 Albania,ALB,750
@@ -7,6 +8,7 @@ United Arab Emirates,ARE,380
 Argentina,ARG,980
 Armenia,ARM,550
 Antarctica,ATA,0
+French and Southern Arctic Lands,ATF,0
 Antigua and Barbuda,ATG,700
 Australia,AUS,1060
 Austria,AUT,1160
@@ -153,6 +155,7 @@ Russia,RUS,1170
 Rwanda,RWA,900
 Saudi Arabia,SAU,20
 Sudan,SDN,50
+South Sudan,SDS,0
 Senegal,SEN,70
 Singapore,SGP,200
 Solomon Islands,SLB,140
